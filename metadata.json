@@ -1,0 +1,12 @@
+{
+  "description": "Premium Futuristic Fashion E-commerce Web Application with 3D product showcase and multi-language support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "short_name": "buymina",
+  "name": " buymina",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0a0a0a",
+  "background_color": "#0a0a0a"
+}
